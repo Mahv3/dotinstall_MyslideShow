@@ -1,13 +1,10 @@
 'use strict'; {
     const images = [
-        'image/MySlideshow/img/pic00.png',
-        'image/MySlideshow/img/pic01.png',
-        'image/MySlideshow/img/pic02.png',
-        'image/MySlideshow/img/pic03.png',
-        'image/MySlideshow/img/pic04.png',
-        'image/MySlideshow/img/pic05.png',
-        'image/MySlideshow/img/pic06.png',
-        'image/MySlideshow/img/pic07.png',
+        'img/image1.jpg',
+        'img/image2.jpg',
+        'img/image3.jpg',
+        'img/image4.jpg',
+        'img/image5.jpg'
     ];
 
     let currentIndex = 0;
